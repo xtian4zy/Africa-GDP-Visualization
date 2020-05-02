@@ -13,3 +13,6 @@ OIL ECONOMIES: Among the nations facing GDP(PPP) decline, Nigeria, South Afrcia,
 
 Although, Egypt also shows up in that list, a mix of both political and oil price instability can very much explain the ranking per GDP(PPP).
 
+REFERENCES
+1. https://www.imf.org/external/pubs/ft/weo/2020/01/weodata/index.aspx
+2. https://en.wikipedia.org/wiki/List_of_elections_in_2019
